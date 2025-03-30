@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Added ignores
+figure_8_gif/
+gif_creation.py
